@@ -89,6 +89,6 @@ int main()
 
 	}
 	else
-		printf("종료\n");
+		printf("종료!\n");
 	return 0;
 }
